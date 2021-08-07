@@ -1,3 +1,3 @@
-import { test } from "./myModule";
+import myLocation, { test, name } from "./myModule";
 
-console.log(test);
+console.log(test + " " + name + " " + myLocation);

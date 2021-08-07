@@ -17,7 +17,7 @@ This project uses the following environment variables:
 - Clone the repository
 
 ```
-git clone  `git@github.com:olli962/udemycourse.git]`
+git clone git@github.com:olli962/udemycourse.git
 ```
 
 - Install dependencies
