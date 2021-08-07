@@ -10,14 +10,14 @@ This project uses the following environment variables:
 
 # Pre-requisites
 
-- Install [Node.js](https://nodejs.org/en/) version 8.0.0
+- Install [Node.js](https://nodejs.org/en/) version ^8.0.0
 
 # Getting started
 
 - Clone the repository
 
 ```
-git clone  <git lab template url> <project_name>
+git clone  [git@github.com:olli962/udemycourse.git](https://github.com/olli962/udemycourse)
 ```
 
 - Install dependencies
@@ -33,10 +33,8 @@ npm install
 npm start
 ```
 
-Navigate to `http://localhost:8001`
+Navigate to `http://localhost:3000`
 
 - API Document endpoints
 
-  swagger Spec Endpoint : http://localhost:8001/api-docs
-
-  swagger-ui Endpoint : http://localhost:8001/docs
+  GraphQL Endpoint : http://localhost:3000/graphql
