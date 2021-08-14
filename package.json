@@ -30,5 +30,8 @@
     "@babel/plugin-proposal-object-rest-spread": "^7.0.0",
     "graphql-yoga": "^1.18.3",
     "uuid": "^8.3.2"
+  },
+  "prettier": {
+    "singleQuote": true
   }
 }
