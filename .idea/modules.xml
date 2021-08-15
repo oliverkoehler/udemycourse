@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/udemycourse.iml" filepath="$PROJECT_DIR$/.idea/udemycourse.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../udemycourse-prisma/.idea/udemycourse-prisma.iml" filepath="$PROJECT_DIR$/../udemycourse-prisma/.idea/udemycourse-prisma.iml" />
     </modules>
   </component>
 </project>
