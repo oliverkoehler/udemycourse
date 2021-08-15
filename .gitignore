@@ -1,3 +1,3 @@
-graphql-basic/node_modules
-graphql-basic/dist
 graphql-prisma/prisma/docker-compose.yml
+graphql-prisma/node_modules
+graphql-prisma/dist
