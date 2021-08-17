@@ -5,7 +5,8 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "../node_modules/.bin/nodemon src/index.js --ext js,graphql --exec babel-node"
+    "start": "node_modules/.bin/nodemon src/index.js --ext js,graphql --exec babel-node",
+    "get-schema": "graphql get-schema -p prisma"
   },
   "repository": {
     "type": "git",
@@ -28,7 +29,9 @@
   },
   "dependencies": {
     "@babel/plugin-proposal-object-rest-spread": "^7.0.0",
+    "graphql-cli": "^2.16.4",
     "graphql-yoga": "^1.18.3",
+    "prisma-binding": "^2.3.16",
     "uuid": "^8.3.2"
   },
   "prettier": {
